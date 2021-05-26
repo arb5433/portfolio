@@ -1663,6 +1663,8 @@ input, select, textarea {
 		/* profile picture */
 
 		.prof-pic{
-			background-image: url("../../images/profile-picture.jpeg");
+			height: 5.5em;
+			width: 5.5em;
+			border-radius: 100%;
 			
 		}
